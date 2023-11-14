@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "main": {
+      "componentData": [
+        {
+          "type": "EXISTING_COMPONENT",
+          "x": 10,
+          "y": 10,
+          "width": 351,
+          "height": 416,
+          "filePath": "/src/components/Game2Wrapper.tsx",
+          "exportName": "default"
+        }
+      ]
+    }
+  },
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}
